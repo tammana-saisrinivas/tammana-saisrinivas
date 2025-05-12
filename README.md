@@ -54,6 +54,14 @@
 
 ---
 
+### 🖼️ My Skills Diagram
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/skills_diagram.png" alt="My Skills Diagram" width="700"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
