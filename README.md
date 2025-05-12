@@ -57,7 +57,7 @@
 ### 🖼️ My Skills Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/skills_diagram.png" alt="My Skills Diagram" width="700"/>
+  <img src="https://github.com/tammana-saisrinivas/tammana-saisrinivas/blob/main/ChatGPT%20Image%20May%2012%2C%202025%2C%2003_35_42%20PM.png" alt="My Skills Diagram" width="700"/>
 </p>
 
 ---
