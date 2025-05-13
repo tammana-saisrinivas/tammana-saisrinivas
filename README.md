@@ -65,9 +65,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical&count_private=true&cache_buster=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true&cache_buster=1" />
 </p>
+
 
 ---
 
