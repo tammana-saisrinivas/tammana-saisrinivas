@@ -11,6 +11,7 @@
 
 - 🎓 Aeronautical Engineer passionate about aircraft design and simulation
 - 🛠️ Experienced with **AutoCAD, Fusion 360, ANSYS, XFLR5**
+- ✈️ Hands-on experience in design and fabrication of RC planes and drones
 - 💻 Proficient in **Java (OOP), Python (NumPy, Pandas, Matplotlib, Astropy), R**
 - 🌐 Currently learning Full Stack Web Development: 
   - Frontend: HTML, CSS, JavaScript  
