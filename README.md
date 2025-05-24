@@ -69,7 +69,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical&count_private=true&cache_buster=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true&cache_buster=1" />
 </p>
-
+ <p align="center">
+  <!-- Fallback or reference badge -->
+  For more accurate stats:  
+  <a href="https://github.com/tammana-saisrinivas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas" />
+  </a>
+</p>
 
 
 ---
