@@ -77,6 +77,12 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Accurate Top Languages -->
+  <a href="https://github.com/tammana-saisrinivas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
