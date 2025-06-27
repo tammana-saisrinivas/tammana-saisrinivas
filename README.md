@@ -70,10 +70,13 @@
   <img src="https://github-readme-stats-tammana-saisrinivas-20.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true&cache_seconds=60" />
 </p>
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true" />
 </p>
+
 
 ---
 
