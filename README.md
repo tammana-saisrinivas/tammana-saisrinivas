@@ -69,9 +69,9 @@
   <img src="https://github-readme-stats-tammana-saisrinivas-20.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical&count_private=true&cache_seconds=60" />
   <img src="https://github-readme-stats-tammana-saisrinivas-20.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical&count_private=true&cache_seconds=60" />
 </p>
-<p>
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammana-saisrinivas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tammana-saisrinivas&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
